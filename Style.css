@@ -74,7 +74,6 @@ body{
     background-color: #f0f8ff;
     list-style-type: none;
     z-index: 999;
-    position: fixed;
 }
 .nav ul li{
     float: left;
